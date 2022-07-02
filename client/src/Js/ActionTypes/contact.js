@@ -1,0 +1,4 @@
+export const GET_CONTACTS ="GET_CONTACTS"
+export const LOAD_CONTACTS ="GET_CONTACTS"
+export const FAIL_CONTACTS ="GET_CONTACTS"
+export const GET_CONTACT ="GET_CONTACT"
